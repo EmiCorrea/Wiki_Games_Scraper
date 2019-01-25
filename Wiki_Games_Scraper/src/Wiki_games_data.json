@@ -1,0 +1,2614 @@
+[{
+    "Nombre": [
+        "hack"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:Logo_dotHack.svg"
+    ],
+    "Distribuidoras": [
+        "Bandai"
+    ],
+    "Desarrolladores": [
+        "CyberConnect2"
+    ],
+    "Artistas": [
+        "Yoshiyuki Sadamoto"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "PlayStation 2"
+    ],
+    "Generos": [
+        "Action role-playing"
+    ],
+    "Modos": [
+        "Single-player"
+    ],
+    "Lanzamiento": {
+        "Infection": {
+            "JP": "20 June, 2002",
+            "NA": "11 February, 2003",
+            "PAL": "26 March, 2004"
+        },
+        "Mutation": {
+            "JP": "09 September, 2002",
+            "NA": "07 May, 2003",
+            "PAL": "18 June, 2004"
+        },
+        "Outbreak": {
+            "JP": "12 December, 2002",
+            "NA": "09 September, 2003",
+            "PAL": "10 September, 2004"
+        },
+        "Quarantine": {
+            "JP": "10 April, 2003",
+            "NA": "13 January, 2004",
+            "PAL": "10 December, 2004"
+        },
+        "frägment": {
+            "JP": "23 November, 2005"
+        }
+    }
+},
+
+{
+    "Nombre": [
+        "3 Skulls of the Toltecs"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:3_Skulls_of_the_Toltecs_Cover.jpg"
+    ],
+    "Distribuidoras": [
+        "Time Warner"
+    ],
+    "Desarrolladores": [
+        "Revistronic"
+    ],
+    "Artistas": [
+        "Antonio de Tena"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "DOS",
+        "Windows"
+    ],
+    "Generos": [
+        "Graphic adventure"
+    ],
+    "Modos": [
+        "Single-player"
+    ],
+    "Lanzamiento": [
+        "25 January, 1996"
+    ]
+},
+
+{
+    "Nombre": [
+        "3 Ninjas Kick Back"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:3_Ninjas_Kick_Back_Coverart.jpg"
+    ],
+    "Distribuidoras": [
+        "Sony Imagesoft"
+    ],
+    "Desarrolladores": [
+        "Malibu Interactive"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "Sega Genesis",
+        "Super NES",
+        "Sega CD"
+    ],
+    "Generos": [
+        "Beat em up",
+        "Platform"
+    ],
+    "Modos": [
+        "Single-player",
+        "2-player cooperative"
+    ],
+    "Lanzamiento": {
+        "Sega Genesis": {
+            "NA": "01 June, 1994"
+        },
+        "SNES": {
+            "NA": "19 June, 1994"
+        },
+        "Sega CD": {
+            "NA": "25 January, 1994"
+        }
+    }
+},
+
+{
+    "Nombre": [
+        "3 Count Bout"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:3-count.jpg"
+    ],
+    "Distribuidoras": [
+        "SNK"
+    ],
+    "Desarrolladores": [
+        "SNK"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "Arcade Game",
+        "SNK",
+        "Neo Geo",
+        "SNK",
+        "Neo Geo CD"
+    ],
+    "Generos": [
+        "Fighting",
+        "Sports"
+    ],
+    "Modos": [
+        "Single-player",
+        "2-player",
+        "2 player",
+        "co-op"
+    ],
+    "Lanzamiento": {
+        "Arcade": "23 April, 1993",
+        "SNK Neo Geo": "25 January, 1993",
+        "SNK Neo Geo CD": "25 January, 1995"
+    }
+},
+
+{
+    "Nombre": [
+        "2Xtreme"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:2_Xtreme_PAL.jpg"
+    ],
+    "Distribuidoras": [
+        "Sony Computer Entertainment America"
+    ],
+    "Desarrolladores": [
+        "Sony Interactive Studios America"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "PlayStation"
+    ],
+    "Generos": [
+        "Racing"
+    ],
+    "Modos": [
+        "Single-player",
+        "multiplayer"
+    ],
+    "Lanzamiento": {
+        "NA": "06 November, 1996",
+        "EU": "06 March, 1997"
+    }
+},
+
+{
+    "Nombre": [
+        "2XL TrophyLite Rally"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:2XL_TrophyLite_Rally.jpg"
+    ],
+    "Distribuidoras": [
+        "N/A"
+    ],
+    "Desarrolladores": [
+        "2XL Games"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "iOS"
+    ],
+    "Generos": [
+        "Racing game"
+    ],
+    "Modos": [
+        "Single-player"
+    ],
+    "Lanzamiento": [
+        "10 June, 2010"
+    ]
+},
+
+{
+    "Nombre": [
+        "2XL Supercross"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:2XL_Supercross.jpg"
+    ],
+    "Distribuidoras": [
+        "N/A"
+    ],
+    "Desarrolladores": [
+        "2XL Games"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "iOS",
+        "Android"
+    ],
+    "Generos": [
+        "Racing game"
+    ],
+    "Modos": [
+        "Single-player"
+    ],
+    "Lanzamiento": [
+        "01 April, 2009"
+    ]
+},
+
+{
+    "Nombre": [
+        "2XL Fleet Defense"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:2XL_Fleet_Defense.jpg"
+    ],
+    "Distribuidoras": [
+        "N/A"
+    ],
+    "Desarrolladores": [
+        "2XL Games"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "iOS"
+    ],
+    "Generos": [
+        "Action"
+    ],
+    "Modos": [
+        "Single-player"
+    ],
+    "Lanzamiento": [
+        "05 December, 2009"
+    ]
+},
+
+{
+    "Nombre": [
+        "2nd Super Robot Wars Original Generation"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:2nd_Super_Robot_Wars_Original_Generation_cover.jpg"
+    ],
+    "Distribuidoras": [
+        "Namco Bandai Games"
+    ],
+    "Desarrolladores": [
+        "Tose",
+        "BB Studio"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "PlayStation 3"
+    ],
+    "Generos": [
+        "Tactical role-playing"
+    ],
+    "Modos": [
+        "Single player"
+    ],
+    "Lanzamiento": {
+        "JP": "29 November, 2012"
+    }
+},
+
+{
+    "Nombre": [
+        "2nd Super Robot Wars Alpha"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:2nd_Super_Robot_Wars_Alpha_Coverart.jpg"
+    ],
+    "Distribuidoras": [
+        "Banpresto"
+    ],
+    "Desarrolladores": [
+        "Banpresto"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "PlayStation 2"
+    ],
+    "Generos": [
+        "Strategy RPG"
+    ],
+    "Modos": [
+        "N/A"
+    ],
+    "Lanzamiento": [
+        "N/A"
+    ]
+},
+
+{
+    "Nombre": [
+        "2nd Super Robot Wars"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:Super_Robot_Wars_2_Front_Box_Art.jpg"
+    ],
+    "Distribuidoras": [
+        "Banpresto"
+    ],
+    "Desarrolladores": [
+        "Banpresto"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "Famicom",
+        "Game Boy",
+        "Sony PlayStation"
+    ],
+    "Generos": [
+        "Tactical role-playing"
+    ],
+    "Modos": [
+        "Single player"
+    ],
+    "Lanzamiento": {
+        "Famicom": {
+            "JP": "12 December, 1991"
+        },
+        "Game Boy (As ": {
+            "JP": "30 June, 1995"
+        },
+        "2nd Super Robot Wars G": {
+            "JP": "02 December, 1999"
+        },
+        ")": {
+            "JP": "16 December, 2004"
+        },
+        "PlayStation": {
+            "JP": "26 January, 2011"
+        }
+    }
+},
+
+{
+    "Nombre": [
+        "2Dark"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:2Dark.png"
+    ],
+    "Distribuidoras": [
+        "Bigben Interactive"
+    ],
+    "Desarrolladores": [
+        "Gloomywood"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "Microsoft Windows",
+        "PlayStation 4",
+        "Xbox One"
+    ],
+    "Generos": [
+        "Adventure",
+        "Stealth"
+    ],
+    "Modos": [
+        "Single-player"
+    ],
+    "Lanzamiento": [
+        "10 March, 2017"
+    ]
+},
+
+{
+    "Nombre": [
+        "2 on 2 Open Ice Challenge"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:2_On_2_Open_Ice_Challenge_Coverart.jpg"
+    ],
+    "Distribuidoras": [
+        "Midway Home Entertainment",
+        "GT Interactive Software"
+    ],
+    "Desarrolladores": [
+        "Midway Games",
+        "Avalanche Software"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "Arcade",
+        "PlayStation",
+        "Microsoft Windows"
+    ],
+    "Generos": [
+        "Sports"
+    ],
+    "Modos": [
+        "Up to 4 players"
+    ],
+    "Lanzamiento": {
+        "Arcade": {
+            "NA": "01 November, 1995"
+        },
+        "PlayStation": {
+            "NA": "13 December, 1996"
+        },
+        "Microsoft Windows": {
+            "NA": "31 August, 1997"
+        }
+    }
+},
+
+{
+    "Nombre": [
+        "2 Fast 4 Gnomz"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:2Fast4Gnomz_video_game_logo.jpg"
+    ],
+    "Distribuidoras": [
+        "QubicGames JP: Flyhigh Works"
+    ],
+    "Desarrolladores": [
+        "QubicGames"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "Nintendo 3DS",
+        "Wii"
+    ],
+    "Generos": [
+        "Platformer"
+    ],
+    "Modos": [
+        "Single-player"
+    ],
+    "Lanzamiento": {
+        "Nintendo 3DS": {
+            "JP": "26 June, 2013",
+            "EU": "06 December, 2012",
+            "NA": "01 November, 2012"
+        },
+        "Wii": {
+            "EU": "26 April, 2012",
+            "NA": "23 February, 2012"
+        }
+    }
+},
+
+{
+    "Nombre": [
+        "2 Days to Vegas"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:2_Days_to_Vegas_logo.png"
+    ],
+    "Distribuidoras": [
+        "N/A"
+    ],
+    "Desarrolladores": [
+        "Steel Monkeys"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "Microsoft Windows",
+        "PlayStation 3",
+        "Xbox 360"
+    ],
+    "Generos": [
+        "Action-adventure"
+    ],
+    "Modos": [
+        "Single-player"
+    ],
+    "Lanzamiento": [
+        "TBA"
+    ]
+},
+
+{
+    "Nombre": [
+        "1K ZX Chess"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:1K_ZX_Chess_-_Sinclair_-_ZX81.jpg"
+    ],
+    "Distribuidoras": [
+        "N/A"
+    ],
+    "Desarrolladores": [
+        "N/A"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "Sinclair ZX81"
+    ],
+    "Generos": [
+        "Strategy board"
+    ],
+    "Modos": [
+        "Single-player"
+    ],
+    "Lanzamiento": [
+        "N/A"
+    ]
+},
+
+{
+    "Nombre": [
+        "A-Rank Thunder Tanjouhen"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:A-RankThunderTanjouhen.jpg"
+    ],
+    "Distribuidoras": [
+        "Telenet"
+    ],
+    "Desarrolladores": [
+        "Riot"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "Mega-CD"
+    ],
+    "Generos": [
+        "Adventure"
+    ],
+    "Modos": [
+        "Single-player"
+    ],
+    "Lanzamiento": {
+        "JP": "25 June, 1993"
+    }
+},
+
+{
+    "Nombre": [
+        "A-Men 2"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:A-Men_2_cover_art.jpg"
+    ],
+    "Distribuidoras": [
+        "Bloober Team"
+    ],
+    "Desarrolladores": [
+        "Bloober Team"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "PC",
+        "PS3",
+        "Vita"
+    ],
+    "Generos": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "Modos": [
+        "Single-player"
+    ],
+    "Lanzamiento": {
+        "PC": {
+            "WW": "24 June, 2015"
+        },
+        "Vita & PS3": {
+            "WW": "05 November, 2015"
+        }
+    }
+},
+
+{
+    "Nombre": [
+        "A-10 Tank Killer"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:A-10_Tank_Killer_Coverart.png"
+    ],
+    "Distribuidoras": [
+        "Dynamix"
+    ],
+    "Desarrolladores": [
+        "Dynamix"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "MS-DOS",
+        "Amiga"
+    ],
+    "Generos": [
+        "Flight simulator"
+    ],
+    "Modos": [
+        "Single-player"
+    ],
+    "Lanzamiento": {
+        "MS-DOS": {
+            "NA": "25 January, 1989"
+        },
+        "Amiga": {
+            "NA": "25 January, 1990"
+        }
+    }
+},
+
+{
+    "Nombre": [
+        "A-10 Cuba"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:A-10_Cuba!_Coverart.png"
+    ],
+    "Distribuidoras": [
+        "Activision"
+    ],
+    "Desarrolladores": [
+        "Parsoft Interactive"
+    ],
+    "Artistas": [
+        "Ron Dimant",
+        "Jon Galloway"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "Windows",
+        "Mac"
+    ],
+    "Generos": [
+        "Flight simulator"
+    ],
+    "Modos": [
+        "Single-player",
+        "multiplayer"
+    ],
+    "Lanzamiento": {
+        "NA": "30 November, 1996"
+    }
+},
+
+{
+    "Nombre": [
+        "A-10 Attack"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:A-10_Attack!_cover_art.jpg"
+    ],
+    "Distribuidoras": [
+        "Parsoft Interactive"
+    ],
+    "Desarrolladores": [
+        "Parsoft Interactive"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "Mac"
+    ],
+    "Generos": [
+        "Flight simulator"
+    ],
+    "Modos": [
+        "Single-player",
+        "multiplayer"
+    ],
+    "Lanzamiento": [
+        "25 January, 1995"
+    ]
+},
+
+{
+    "Nombre": [
+        "AX-101"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:AX-101Game.jpg"
+    ],
+    "Distribuidoras": [
+        "JP: Sega",
+        "NA: Absolute Entertainment"
+    ],
+    "Desarrolladores": [
+        "Micronet",
+        "Genki"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "Mega-CD"
+    ],
+    "Generos": [
+        "Rail shooter"
+    ],
+    "Modos": [
+        "Single-player"
+    ],
+    "Lanzamiento": {
+        "JP": "25 March, 1994",
+        "NA": "25 January, 1994"
+    }
+},
+
+{
+    "Nombre": [
+        "A Sound of Thunder"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:SoundofThunderGBA.jpg"
+    ],
+    "Distribuidoras": [
+        "BAM Entertainment"
+    ],
+    "Desarrolladores": [
+        "Mbius Entertainment"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "Game Boy Advance"
+    ],
+    "Generos": [
+        "Action-adventure",
+        "Survival horror"
+    ],
+    "Modos": [
+        "N/A"
+    ],
+    "Lanzamiento": [
+        "N/A"
+    ]
+},
+
+{
+    "Nombre": [
+        "A Passion for Art: Renoir Cezanne Matisse and Dr Barnes"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:A_Passion_for_Art_Renoir,_Cezanne,_Matisse,_and_Dr._Barnes.jpg"
+    ],
+    "Distribuidoras": [
+        "Corbis Corporation"
+    ],
+    "Desarrolladores": [
+        "Corbis Corporation"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "CD-ROM"
+    ],
+    "Generos": [
+        "N/A"
+    ],
+    "Modos": [
+        "N/A"
+    ],
+    "Lanzamiento": [
+        "25 January, 1995"
+    ]
+},
+
+{
+    "Nombre": [
+        "A Jax"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:A_Jax_Flyer.png"
+    ],
+    "Distribuidoras": [
+        "Konami"
+    ],
+    "Desarrolladores": [
+        "Konami"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "Arcade",
+        "Amstrad CPC",
+        "Commodore 64",
+        "MS-DOS",
+        "ZX Spectrum",
+        "Sharp X68000",
+        "PS4",
+        "Arcade Archives"
+    ],
+    "Generos": [
+        "Shooter game"
+    ],
+    "Modos": [
+        "Single player",
+        "two-player",
+        "co-op"
+    ],
+    "Lanzamiento": [
+        "N/A"
+    ]
+},
+
+{
+    "Nombre": [
+        "10000000"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:10000000_video_game_logo.jpg"
+    ],
+    "Distribuidoras": [
+        "EightyEightGames"
+    ],
+    "Desarrolladores": [
+        "EightyEightGames"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "iOS",
+        "Microsoft Windows",
+        "OS X",
+        "Linux",
+        "Android"
+    ],
+    "Generos": [
+        "Puzzle",
+        "role-playing"
+    ],
+    "Modos": [
+        "Single player"
+    ],
+    "Lanzamiento": {
+        "iOS": {
+            "WW": "29 August, 2012"
+        },
+        "Microsoft Windows, Mac OS X": {
+            "WW": "15 January, 2013"
+        },
+        "Linux": {
+            "WW": "14 March, 2013"
+        },
+        "Android": {
+            "WW": "14 March, 2013"
+        }
+    }
+},
+
+{
+    "Nombre": [
+        "7554"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:7554_Coverart.png"
+    ],
+    "Distribuidoras": [
+        "Emobi Games"
+    ],
+    "Desarrolladores": [
+        "Emobi Games"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "Microsoft Windows"
+    ],
+    "Generos": [
+        "First-person shooter"
+    ],
+    "Modos": [
+        "Single-player"
+    ],
+    "Lanzamiento": [
+        "16 December, 2011"
+    ]
+},
+
+{
+    "Nombre": [
+        "6180 the moon"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:6180TheMoonSteamHeader.jpg"
+    ],
+    "Distribuidoras": [
+        "Turtle Cream"
+    ],
+    "Desarrolladores": [
+        "Turtle Cream PokPoong Games"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "macOS",
+        "Microsoft Windows",
+        "New Nintendo 3DS",
+        "Linux",
+        "Wii U",
+        "Nintendo Switch"
+    ],
+    "Generos": [
+        "Puzzle-platformer"
+    ],
+    "Modos": [
+        "N/A"
+    ],
+    "Lanzamiento": [
+        "N/A"
+    ]
+},
+
+{
+    "Nombre": [
+        "3030 Deathwar"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:3030DeathwarReduxCover.png"
+    ],
+    "Distribuidoras": [
+        "Crunchy Leaf Games"
+    ],
+    "Desarrolladores": [
+        "Bird In Sky"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "Windows"
+    ],
+    "Generos": [
+        "Space trading and combat simulator"
+    ],
+    "Modos": [
+        "Single-player"
+    ],
+    "Lanzamiento": {
+        "Original": "25 January, 2007",
+        "Re-release": "25 January, 2014",
+        "Redux version": "25 January, 2017"
+    }
+},
+
+{
+    "Nombre": [
+        "2400 AD"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:2400_A.D._Coverart.png"
+    ],
+    "Distribuidoras": [
+        "Origin Systems"
+    ],
+    "Desarrolladores": [
+        "Origin Systems"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "Apple II",
+        "MS-DOS"
+    ],
+    "Generos": [
+        "Adventure"
+    ],
+    "Modos": [
+        "Single-player"
+    ],
+    "Lanzamiento": {
+        "Apple II": "25 January, 1987",
+        "MS-DOS": "25 January, 1988"
+    }
+},
+
+{
+    "Nombre": [
+        "2064: Read Only Memories"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:2064_Read_Only_Memories_title.png"
+    ],
+    "Distribuidoras": [
+        "MidBoss"
+    ],
+    "Desarrolladores": [
+        "MidBoss"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "Microsoft Windows",
+        "OS X",
+        "Linux",
+        "Ouya",
+        "Razer Forge",
+        "Amazon Fire TV",
+        "PlayStation 4",
+        "PlayStation Vita",
+        "Nintendo Switch",
+        "Xbox One",
+        "Android",
+        "iOS"
+    ],
+    "Generos": [
+        "Graphic adventure"
+    ],
+    "Modos": [
+        "Single-player"
+    ],
+    "Lanzamiento": {
+        "Microsoft Windows, OS X, Linux, Ouya": {
+            "WW": "06 October, 2015"
+        },
+        "Razer Forge, Fire TV": {
+            "WW": "25 December, 2015"
+        },
+        "PlayStation 4": {
+            "WW": "17 January, 2017"
+        },
+        "PlayStation Vita": {
+            "NA": "09 December, 2017",
+            "EU": "10 January, 2018"
+        },
+        "Xbox One": {
+            "WW": "17 January, 2018"
+        },
+        "Android, iOS": {
+            "WW": "25 February, 2018"
+        },
+        "Nintendo Switch": {
+            "WW": "14 August, 2018"
+        }
+    }
+},
+
+{
+    "Nombre": [
+        "2048"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:2048_logo.svg"
+    ],
+    "Distribuidoras": [
+        "Solebon LLC"
+    ],
+    "Desarrolladores": [
+        "Gabriele Cirulli"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "Browser",
+        "iOS",
+        "Nintendo 3DS",
+        "Android",
+        "Apple TV"
+    ],
+    "Generos": [
+        "Puzzle"
+    ],
+    "Modos": [
+        "Single-player"
+    ],
+    "Lanzamiento": [
+        "N/A"
+    ]
+},
+
+{
+    "Nombre": [
+        "AeroWings 2: Airstrike"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:Aerowings-2-Airstrike.jpg"
+    ],
+    "Distribuidoras": [
+        "Crave Entertainment JP: CRI Middleware"
+    ],
+    "Desarrolladores": [
+        "CRI"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "Dreamcast"
+    ],
+    "Generos": [
+        "Combat flight simulator"
+    ],
+    "Modos": [
+        "Single-player",
+        "multiplayer"
+    ],
+    "Lanzamiento": {
+        "JP": "24 February, 2000",
+        "NA": "27 August, 2000",
+        "EU": "25 January, 2000"
+    }
+},
+
+{
+    "Nombre": [
+        "AeroWings"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:Aerowings.jpg"
+    ],
+    "Distribuidoras": [
+        "Crave Entertainment JP: CRI Middleware"
+    ],
+    "Desarrolladores": [
+        "CRI Middleware"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "Dreamcast"
+    ],
+    "Generos": [
+        "Flight simulator"
+    ],
+    "Modos": [
+        "Single-player",
+        "multiplayer"
+    ],
+    "Lanzamiento": {
+        "JP": "04 March, 1999",
+        "NA": "09 September, 1999",
+        "EU": "25 January, 1999"
+    }
+},
+
+{
+    "Nombre": [
+        "Aerostar"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:Aerostar_Coverart.png"
+    ],
+    "Distribuidoras": [
+        "Vic Tokai"
+    ],
+    "Desarrolladores": [
+        "Vic Tokai"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "Game Boy"
+    ],
+    "Generos": [
+        "Scrolling shooter"
+    ],
+    "Modos": [
+        "Single-player"
+    ],
+    "Lanzamiento": {
+        "NA": "25 September, 1991",
+        "JP": "28 June, 1991",
+        "AU": "25 January, 1991",
+        "EU": "25 January, 1991"
+    }
+},
+
+{
+    "Nombre": [
+        "AeroGauge"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:AeroGauge_Coverart.png"
+    ],
+    "Distribuidoras": [
+        "ASCII Entertainment"
+    ],
+    "Desarrolladores": [
+        "Locomotive Games"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "Nintendo 64"
+    ],
+    "Generos": [
+        "Racing"
+    ],
+    "Modos": [
+        "Single-player",
+        "multiplayer"
+    ],
+    "Lanzamiento": {
+        "JP": "19 December, 1997",
+        "NA": "30 April, 1998",
+        "PAL": "01 May, 1998"
+    }
+},
+
+{
+    "Nombre": [
+        "Aerobiz Supersonic"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:Aerobiz_Supersonic_box_art.jpg"
+    ],
+    "Distribuidoras": [
+        "Koei"
+    ],
+    "Desarrolladores": [
+        "Koei"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "Super NES",
+        "Genesis"
+    ],
+    "Generos": [
+        "Business simulation"
+    ],
+    "Modos": [
+        "Single-player",
+        "Multiplayer"
+    ],
+    "Lanzamiento": {
+        "Super NES": {
+            "JP": "02 April, 1993",
+            "NA": "25 August, 1994"
+        },
+        "Genesis": {
+            "JP": "18 February, 1994",
+            "NA": "25 November, 1994"
+        }
+    }
+},
+
+{
+    "Nombre": [
+        "Aerobiz"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:Aerobiz_Coverart.png"
+    ],
+    "Distribuidoras": [
+        "Koei"
+    ],
+    "Desarrolladores": [
+        "Koei"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "FM Towns",
+        "NEC PC-9801",
+        "Super NES",
+        "Genesis",
+        "X68000"
+    ],
+    "Generos": [
+        "Business simulation game"
+    ],
+    "Modos": [
+        "Single-player",
+        "Multiplayer"
+    ],
+    "Lanzamiento": {
+        "Super NES:": {
+            "JP": "05 April, 1992",
+            "NA": "25 February, 1993"
+        },
+        "Sega Genesis:": {
+            "NA": "25 January, 1992",
+            "JP": "01 November, 1992"
+        },
+        "Sharp X68000:": {
+            "JP": "20 November, 1992"
+        }
+    }
+},
+
+{
+    "Nombre": [
+        "Aero the Acro-Bat 2"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:Aero_the_Acro-Bat_2_Coverart.png"
+    ],
+    "Distribuidoras": [
+        "Sunsoft"
+    ],
+    "Desarrolladores": [
+        "Iguana Entertainment"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "Sega Genesis",
+        "Super NES"
+    ],
+    "Generos": [
+        "Platform"
+    ],
+    "Modos": [
+        "Single-player"
+    ],
+    "Lanzamiento": {
+        "Sega Genesis": {
+            "NA": "25 November, 1994",
+            "EU": "25 August, 1995"
+        },
+        "Super NES": {
+            "NA": "25 November, 1994",
+            "PAL": "25 August, 1994"
+        },
+        "Wii Virtual Console": {
+            "NA": "25 January, 2010",
+            "2010": "06 August, 2010"
+        }
+    }
+},
+
+{
+    "Nombre": [
+        "Aero the Acro-Bat"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:Sega_Genesis_Aero_the_Acro-Bat_cover_art.jpg"
+    ],
+    "Distribuidoras": [
+        "Sunsoft",
+        "Metro 3D",
+        "Zoo Digital"
+    ],
+    "Desarrolladores": [
+        "Iguana",
+        "GEN",
+        "SNES",
+        "Atomic Planet",
+        "GBA"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "Sega Genesis",
+        "Super NES",
+        "Game Boy Advance"
+    ],
+    "Generos": [
+        "Platform"
+    ],
+    "Modos": [
+        "Single-player"
+    ],
+    "Lanzamiento": {
+        "Sega Genesis": {
+            "NA": "01 August, 1993",
+            "EU": "25 January, 1993"
+        },
+        "Super Nintendo": {
+            "NA": "12 October, 1993",
+            "UK": "25 December, 1993",
+            "PAL": "25 November, 1993"
+        },
+        "Game Boy Advance": {
+            "NA": "25 June, 2002",
+            "JP": "20 December, 2002",
+            "PAL": "25 April, 2002"
+        },
+        "Virtual Console": {
+            "NA": "26 July, 2010",
+            "PAL": "23 July, 2010"
+        }
+    }
+},
+
+{
+    "Nombre": [
+        "Aero Fighters Assault"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:AeroFightersAssaultCover.jpg"
+    ],
+    "Distribuidoras": [
+        "Video System"
+    ],
+    "Desarrolladores": [
+        "Paradigm Entertainment"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "Nintendo 64"
+    ],
+    "Generos": [
+        "Combat flight simulator"
+    ],
+    "Modos": [
+        "Single-player",
+        "multiplayer"
+    ],
+    "Lanzamiento": {
+        "NA": "30 October, 1997",
+        "JP": "19 March, 1998",
+        "EU": "12 April, 1998"
+    }
+},
+
+{
+    "Nombre": [
+        "Aero Fighters 3"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:AeroFighters3.jpg"
+    ],
+    "Distribuidoras": [
+        "Video System"
+    ],
+    "Desarrolladores": [
+        "Video System"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "Arcade",
+        "Neo-Geo",
+        "Neo-Geo CD",
+        "PS4",
+        "Switch",
+        "Xbox One"
+    ],
+    "Generos": [
+        "Shooter"
+    ],
+    "Modos": [
+        "Single-player",
+        "multiplayer"
+    ],
+    "Lanzamiento": {
+        "Arcade": "17 November, 1995",
+        "Neo Geo CD": "25 January, 1995",
+        "PS4, Switch, Xbox One": "25 January, 2018"
+    }
+},
+
+{
+    "Nombre": [
+        "Aero Fighters 2"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:AeroFighters2.jpg"
+    ],
+    "Distribuidoras": [
+        "Video System"
+    ],
+    "Desarrolladores": [
+        "Video System"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "Arcade",
+        "Neo Geo",
+        "Neo-Geo CD",
+        "PS4",
+        "Switch",
+        "Xbox One"
+    ],
+    "Generos": [
+        "Shooter game"
+    ],
+    "Modos": [
+        "Single-player",
+        "2 player",
+        "co-op"
+    ],
+    "Lanzamiento": {
+        "Arcade": "26 August, 1994",
+        "SNK Neo-Geo CD": "25 January, 1995",
+        "PS4, Switch, Xbox One": "25 January, 2017"
+    }
+},
+
+{
+    "Nombre": [
+        "Aero Fighters"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:Aero_Fighters_Poster.png"
+    ],
+    "Distribuidoras": [
+        "JP: Tecmo",
+        "JP: Video System",
+        "EU: Phoenix",
+        "JP: Hamster Corporation",
+        "NA: Mc ORiver"
+    ],
+    "Desarrolladores": [
+        "Video System"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "Arcade",
+        "Super NES",
+        "PlayStation 2"
+    ],
+    "Generos": [
+        "Shooter game"
+    ],
+    "Modos": [
+        "Single player",
+        "2 player",
+        "co-op"
+    ],
+    "Lanzamiento": {
+        "Arcade": {
+            "JP": "25 January, 1992",
+            "NA": "25 January, 1992",
+            "EU": "25 January, 1992"
+        },
+        "Super NES": {
+            "JP": "30 June, 1993",
+            "NA": "25 November, 1994"
+        },
+        "PlayStation 2": {
+            "JP": "21 July, 2005"
+        }
+    }
+},
+
+{
+    "Nombre": [
+        "Aerial Assault"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:Smsaacv.jpg"
+    ],
+    "Distribuidoras": [
+        "Sega"
+    ],
+    "Desarrolladores": [
+        "Sega"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "Master System",
+        "Game Gear"
+    ],
+    "Generos": [
+        "Scrolling shooter"
+    ],
+    "Modos": [
+        "Single-player"
+    ],
+    "Lanzamiento": {
+        "Master System:": {
+            "NA": "25 January, 1990",
+            "EU": "25 January, 1990"
+        },
+        "Game Gear:": {
+            "NA": "25 January, 1992",
+            "EU": "25 January, 1992",
+            "JP": "05 June, 1992"
+        }
+    }
+},
+
+{
+    "Nombre": [
+        "Æon Flux"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:Aeonfluxgame.jpg"
+    ],
+    "Distribuidoras": [
+        "Majesco Entertainment"
+    ],
+    "Desarrolladores": [
+        "Terminal Reality"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "PlayStation 2",
+        "Xbox"
+    ],
+    "Generos": [
+        "Action-adventure"
+    ],
+    "Modos": [
+        "Single-player"
+    ],
+    "Lanzamiento": {
+        "NA": "17 November, 2005",
+        "AU": "30 March, 2006",
+        "EU": "31 March, 2006"
+    }
+},
+
+{
+    "Nombre": [
+        "AEGIS: Guardian of the Fleet"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:AEGIS_Guardian_of_the_Fleet.jpg"
+    ],
+    "Distribuidoras": [
+        "Time Warner Interactive"
+    ],
+    "Desarrolladores": [
+        "Software Sorcery"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "MS-DOS"
+    ],
+    "Generos": [
+        "N/A"
+    ],
+    "Modos": [
+        "Single-player",
+        "multiplayer"
+    ],
+    "Lanzamiento": [
+        "N/A"
+    ]
+},
+
+{
+    "Nombre": [
+        "Aegis Wing"
+    ],
+    "Img_URL": [
+        "N/A"
+    ],
+    "Distribuidoras": [
+        "N/A"
+    ],
+    "Desarrolladores": [
+        "N/A"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "N/A"
+    ],
+    "Generos": [
+        "N/A"
+    ],
+    "Modos": [
+        "N/A"
+    ],
+    "Lanzamiento": [
+        "N/A"
+    ]
+},
+
+{
+    "Nombre": [
+        "Alex Kidd: The Lost Stars"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:Alexkidd2.jpg"
+    ],
+    "Distribuidoras": [
+        "Sega"
+    ],
+    "Desarrolladores": [
+        "Sega"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "Arcade",
+        "Master System"
+    ],
+    "Generos": [
+        "Platform"
+    ],
+    "Modos": [
+        "Single-player",
+        "multiplayer"
+    ],
+    "Lanzamiento": {
+        "Arcade": "25 January, 1986",
+        "Master System": "25 January, 1987"
+    }
+},
+
+{
+    "Nombre": [
+        "Alex Kidd: High-Tech World"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:Alex_Kidd_in_High-Tech_World_Coverart.png"
+    ],
+    "Distribuidoras": [
+        "Sega"
+    ],
+    "Desarrolladores": [
+        "Sega"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "Master System"
+    ],
+    "Generos": [
+        "Platform",
+        "adventure"
+    ],
+    "Modos": [
+        "Single-player"
+    ],
+    "Lanzamiento": {
+        "JP": "19 July, 1987",
+        "NA": "25 January, 1989",
+        "EU": "25 January, 1989"
+    }
+},
+
+{
+    "Nombre": [
+        "Alex Kidd in the Enchanted Castle"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:Alexkiddenchantedcastle1.jpg"
+    ],
+    "Distribuidoras": [
+        "Sega"
+    ],
+    "Desarrolladores": [
+        "Sega"
+    ],
+    "Artistas": [
+        "Rieko Kodama",
+        "Naoto Ohshima",
+        "Takashi Yuda"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "Mega DriveGenesis",
+        "Virtual Console",
+        "Mega Drive Handheld",
+        "Cloud",
+        "OnLive",
+        "Steam"
+    ],
+    "Generos": [
+        "Platform"
+    ],
+    "Modos": [
+        "Single-player"
+    ],
+    "Lanzamiento": {
+        "Mega Drive/Genesis": {
+            "JP": "10 February, 1989",
+            "NA": "20 August, 1989",
+            "EU": "30 November, 1990"
+        },
+        "Virtual Console": {
+            "JP": "20 March, 2007",
+            "NA": "09 April, 2007",
+            "EU": "04 May, 2007"
+        }
+    }
+},
+
+{
+    "Nombre": [
+        "Alex Kidd in Shinobi World"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:AlexKiddInShinobiWorld.jpg"
+    ],
+    "Distribuidoras": [
+        "Sega"
+    ],
+    "Desarrolladores": [
+        "Sega"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "Master System",
+        "Virtual Console"
+    ],
+    "Generos": [
+        "Platform",
+        "hack and slash"
+    ],
+    "Modos": [
+        "Single-player"
+    ],
+    "Lanzamiento": {
+        "Master System": {
+            "NA": "25 January, 1990",
+            "EU": "25 August, 1990"
+        },
+        "Virtual Console": {
+            "PAL": "11 December, 2009",
+            "NA": "01 February, 2010"
+        }
+    }
+},
+
+{
+    "Nombre": [
+        "Alex Kidd in Miracle World"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:AlexKiddInMiracleWorldBox.jpg"
+    ],
+    "Distribuidoras": [
+        "Sega"
+    ],
+    "Desarrolladores": [
+        "Sega"
+    ],
+    "Artistas": [
+        "Rieko Kodama"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "Master System"
+    ],
+    "Generos": [
+        "Platform"
+    ],
+    "Modos": [
+        "Single-player"
+    ],
+    "Lanzamiento": {
+        "JP": "01 November, 1986",
+        "NA": "25 January, 1987",
+        "EU": "25 January, 1987"
+    }
+},
+
+{
+    "Nombre": [
+        "Alex Kidd BMX Trial"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:Alex_Kidd_BMX_Trial_box_art.jpg"
+    ],
+    "Distribuidoras": [
+        "Sega"
+    ],
+    "Desarrolladores": [
+        "Sega"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "Master System"
+    ],
+    "Generos": [
+        "Racing"
+    ],
+    "Modos": [
+        "Single-player"
+    ],
+    "Lanzamiento": {
+        "JP": "15 November, 1987"
+    }
+},
+
+{
+    "Nombre": [
+        "Aleste 2"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:Aleste2-title.png"
+    ],
+    "Distribuidoras": [
+        "Compile"
+    ],
+    "Desarrolladores": [
+        "Compile"
+    ],
+    "Artistas": [
+        "Hiromichi Sueyoshi",
+        "Inu Nakashima"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "MSX2",
+        "Windows"
+    ],
+    "Generos": [
+        "Vertical",
+        "scrolling shooter"
+    ],
+    "Modos": [
+        "Single-player"
+    ],
+    "Lanzamiento": {
+        "MSX": "25 November, 1989",
+        "Windows": "25 January, 2009"
+    }
+},
+
+{
+    "Nombre": [
+        "Aleste"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:Aleste_Cover.png"
+    ],
+    "Distribuidoras": [
+        "Sega",
+        "Compile",
+        "D4Enterprise",
+        "Square Enix Mobile"
+    ],
+    "Desarrolladores": [
+        "Compile"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "Master System",
+        "MSX2",
+        "Wii",
+        "Virtual Console",
+        "Java",
+        "Midlet"
+    ],
+    "Generos": [
+        "Vertical",
+        "scrolling shooter"
+    ],
+    "Modos": [
+        "Single player"
+    ],
+    "Lanzamiento": {
+        "Master System": {
+            "JP": "29 February, 1988",
+            "NA": "25 January, 1988",
+            "EU": "25 January, 1988"
+        },
+        "MSX2": {
+            "JP": "23 July, 1988"
+        },
+        "Java Midlet": {
+            "EU": "08 July, 2004"
+        },
+        "Wii Virtual Console": {
+            "JP": "27 May, 2008"
+        }
+    }
+},
+
+{
+    "Nombre": [
+        "Alekhines Gun"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:Alekhines_gun_cover.jpg"
+    ],
+    "Distribuidoras": [
+        "Maximum Games"
+    ],
+    "Desarrolladores": [
+        "Maximum Games"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "Microsoft Windows",
+        "PlayStation 4",
+        "Xbox One"
+    ],
+    "Generos": [
+        "Stealth",
+        "action"
+    ],
+    "Modos": [
+        "Single-player"
+    ],
+    "Lanzamiento": {
+        "Microsoft Windows": {
+            "NA": "01 March, 2016",
+            "EU": "11 March, 2016"
+        },
+        "PlayStation 4": {
+            "NA": "01 March, 2016",
+            "EU": "25 March, 2016"
+        }
+    }
+},
+
+{
+    "Nombre": [
+        "Aldynes"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:Aldynes_Cover.jpg"
+    ],
+    "Distribuidoras": [
+        "Hudson Soft"
+    ],
+    "Desarrolladores": [
+        "Produce"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "SuperGrafx",
+        "PlayStation Network"
+    ],
+    "Generos": [
+        "Shoot em up"
+    ],
+    "Modos": [
+        "Single-player"
+    ],
+    "Lanzamiento": {
+        "SuperGrafx": {
+            "JP": "22 February, 1991"
+        },
+        "PlayStation Network": {
+            "JP": "16 February, 2011"
+        }
+    }
+},
+
+{
+    "Nombre": [
+        "Alchemist"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:Alchemist_video_game_cover_art.jpg"
+    ],
+    "Distribuidoras": [
+        "Imagine Software"
+    ],
+    "Desarrolladores": [
+        "N/A"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "ZX Spectrum"
+    ],
+    "Generos": [
+        "Action-adventure"
+    ],
+    "Modos": [
+        "Single-player"
+    ],
+    "Lanzamiento": [
+        "N/A"
+    ]
+},
+
+{
+    "Nombre": [
+        "Alcazar: The Forgotten Fortress"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:Alcazar_The_Forgotten_Fortress.jpg"
+    ],
+    "Distribuidoras": [
+        "Activision"
+    ],
+    "Desarrolladores": [
+        "Activision"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "Coleco Adam",
+        "ColecoVision",
+        "Apple II",
+        "MSX",
+        "Commodore 64"
+    ],
+    "Generos": [
+        "Action-adventure game"
+    ],
+    "Modos": [
+        "Single-player"
+    ],
+    "Lanzamiento": [
+        "25 January, 1985"
+    ]
+},
+
+{
+    "Nombre": [
+        "Alcatraz: Prison Escape"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:Alcatraz_Prison_Escape_box_art.jpg"
+    ],
+    "Distribuidoras": [
+        "Activision Value"
+    ],
+    "Desarrolladores": [
+        "Zombie Inc"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "Microsoft Windows"
+    ],
+    "Generos": [
+        "Action",
+        "survival"
+    ],
+    "Modos": [
+        "Single-player",
+        "multiplayer"
+    ],
+    "Lanzamiento": {
+        "NA": "23 November, 2001"
+    }
+},
+
+{
+    "Nombre": [
+        "Alcatraz"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:Alcatraz_cover_art.jpg"
+    ],
+    "Distribuidoras": [
+        "Infogrames"
+    ],
+    "Desarrolladores": [
+        "221B Software Productions"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "Amiga",
+        "MS-DOS",
+        "Atari ST"
+    ],
+    "Generos": [
+        "Shoot em up",
+        "stealth game"
+    ],
+    "Modos": [
+        "Single-player"
+    ],
+    "Lanzamiento": [
+        "25 January, 1992"
+    ]
+},
+
+{
+    "Nombre": [
+        "Alcahest"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:AlcahestSNES_boxart.jpg"
+    ],
+    "Distribuidoras": [
+        "Square"
+    ],
+    "Desarrolladores": [
+        "HAL Laboratory",
+        "Tookiekat studios"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "Super Famicom"
+    ],
+    "Generos": [
+        "Action"
+    ],
+    "Modos": [
+        "Single-player"
+    ],
+    "Lanzamiento": {
+        "JP": "17 December, 1993"
+    }
+},
+
+{
+    "Nombre": [
+        "Albion Online"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:Albion_Online.jpg"
+    ],
+    "Distribuidoras": [
+        "Sandbox Interactive"
+    ],
+    "Desarrolladores": [
+        "Sandbox Interactive"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "Microsoft Windows",
+        "OS X",
+        "Linux",
+        "iOS",
+        "Android"
+    ],
+    "Generos": [
+        "MMORPG"
+    ],
+    "Modos": [
+        "Multiplayer"
+    ],
+    "Lanzamiento": [
+        "17 July, 2017"
+    ]
+},
+
+{
+    "Nombre": [
+        "American Horseshoes"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:American_Horseshoes_Flyer.png"
+    ],
+    "Distribuidoras": [
+        "Taito"
+    ],
+    "Desarrolladores": [
+        "Taito"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "Arcade Game"
+    ],
+    "Generos": [
+        "Sports game"
+    ],
+    "Modos": [
+        "Single player",
+        "4-player"
+    ],
+    "Lanzamiento": [
+        "N/A"
+    ]
+},
+
+{
+    "Nombre": [
+        "American Gladiators"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:American_Gladiators_Coverart.png"
+    ],
+    "Distribuidoras": [
+        "GameTek"
+    ],
+    "Desarrolladores": [
+        "Incredible Technologies"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "NES",
+        "Super NES",
+        "Sega Mega DriveGenesis",
+        "Amiga",
+        "Atari ST",
+        "DOS"
+    ],
+    "Generos": [
+        "Sports"
+    ],
+    "Modos": [
+        "Single-player"
+    ],
+    "Lanzamiento": [
+        "N/A"
+    ]
+},
+
+{
+    "Nombre": [
+        "The American Girls Premiere"
+    ],
+    "Img_URL": [
+        "https://en.wikipedia.org/wiki/File:The_American_Girls_Premiere_2nd_Ed_Cover.jpg"
+    ],
+    "Distribuidoras": [
+        "The Learning Company"
+    ],
+    "Desarrolladores": [
+        "The Learning Company"
+    ],
+    "Artistas": [
+        "N/A"
+    ],
+    "Compositores": [
+        "N/A"
+    ],
+    "Plataformas": [
+        "Microsoft Windows",
+        "Mac OS"
+    ],
+    "Generos": [
+        "Educational"
+    ],
+    "Modos": [
+        "N/A"
+    ],
+    "Lanzamiento": {
+        "NA": "25 February, 1998"
+    }
+}
